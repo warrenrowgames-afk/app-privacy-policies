@@ -4,8 +4,8 @@ This site contains public privacy policies and support information for Warren Ro
 
 ## Apps
 
-- [Epic Blocks Privacy Policy](/epic-blocks/privacy-policy.html)
-- [Epic Sudoku Privacy Policy](/epic-sudoku//privacy-policy.html)
+- [Epic Blocks Privacy Policy](/epic-blocks/privacy-policy/)
+- [Epic Sudoku Privacy Policy](/epic-sudoku//privacy-policy/)
 
 ## Contact
 
